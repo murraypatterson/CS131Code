@@ -9,8 +9,10 @@ public class Mathematics {
 	double root = Math.sqrt(17.0);
 	double angle = 1.5;
 	double height = Math.sin(angle);
-
+	double power = Math.pow(2, -1);
+	
 	System.out.println("root = " + root);
 	System.out.println("height = " + height);
+	System.out.println("power = " + power);
     }
 }
