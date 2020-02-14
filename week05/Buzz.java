@@ -1,3 +1,5 @@
+// from exercise 5.6 of the Java textbook
+
 public class Buzz {
 
     public static void baffle(String blimp) {
@@ -20,3 +22,14 @@ public class Buzz {
 	zippo("rattle", 13); // 2 .. etc.
     }
 }
+
+/*
+
+  Note: you can just answer parts 3. and 4. of exercise 5.6 here in
+  the comments, i.e.,
+
+  3. (your answer here)
+
+  4. (your answer here)
+
+*/
